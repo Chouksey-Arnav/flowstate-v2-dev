@@ -1,0 +1,6 @@
+interface:
+  display_name: "Flowstate V2 Dev"
+  short_description: "Repo-specific patterns and workflows for flowstate-v2-dev"
+  default_prompt: "Use the flowstate-v2-dev repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
